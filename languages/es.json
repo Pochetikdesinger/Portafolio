@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front-End",
-        "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-3": "Desarrollador Backend",
+        "parrafo-info": "Estudiante de Ingeniería de Sistemas y programador enfocado en el desarrollo de soluciones backend y optimización de procesos. Apasionado por la eficiencia y la automatización, busco crear proyectos que integren tecnología y logística para mejorar la gestión de datos y procesos operativos.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Soy estudiante de Ingeniería de Sistemas y programador con experiencia en desarrollo de software y sistemas backoffice. Me apasiona la creación de soluciones tecnológicas que optimicen procesos y mejoren la gestión empresarial. Aspiro a crecer profesionalmente en el ámbito de la ingeniería de sistemas, adquiriendo experiencia en el desarrollo y coordinación de proyectos de software.<br><br>Soy una persona proactiva y comprometida, con habilidades en análisis de datos, desarrollo web y gestión de inventarios. Valoro el trabajo en equipo y el aprendizaje continuo, siempre buscando mejorar mis habilidades y aportar en cada proyecto."
     },
 
     "habilidades": {
@@ -26,21 +26,21 @@
 
     "formacion": {
         "title": "Formación",
-        "formacion1": "Estadística",
-        "tiempo-formacion1": "2019 - En curso",
-        "formacion2": "Desarrolladora Full-Stack",
-        "tiempo-formacion2": "2022 - En curso",
-        "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
+        "formacion1": "Ingeniería de Sistemas",
+        "tiempo-formacion1": "2022 - En curso",
+        "formacion2": "Scrum Master",
+        "tiempo-formacion2": "2024 - 2025",
+        "formacion3": "Google Data Analytics"
     },
 
     "proyectos": {
         "title": "Proyectos",
-        "title-proyecto1": "Juego del Ahorcado",
-        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
+        "title-proyecto1": "TaskManager",
+        "info-proyecto1": "Un aplicativo CRUD que permite la gestión de tareas, siendo el CRUD: Create - Read - Update - Delete, fundamental para la introducción al Backend.",
         "title-proyecto2": "Portafolio",
         "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
-        "title-proyecto3": "Encriptador de Texto",
-        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+        "title-proyecto3": "Generador de Contraseñas",
+        "info-proyecto3": "Un encriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
     },
 
     "contacto": {
